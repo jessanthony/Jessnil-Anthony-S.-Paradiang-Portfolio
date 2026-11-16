@@ -1,0 +1,11 @@
+{
+  "title": "Jessnil Anthony S. Paradiang — Portfolio",
+  "description": "Showcase projects, experience, and skills in a polished, read-only portfolio for visitors, clients, and potential employers.",
+  "robots": {
+    "index": true
+  },
+  "accessibility": {
+    "addBypassLinks": true,
+    "ignoreReducedMotion": true
+  }
+}
